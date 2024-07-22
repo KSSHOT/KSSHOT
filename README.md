@@ -1,6 +1,6 @@
-![Banner](![github_banner](https://github.com/user-attachments/assets/001c3b4a-f506-4f50-89d3-3219df14c264))
 <h1 align="center">Hi 👋, I'm David Garcia Badillo</h1>
 
+![github_banner](https://github.com/user-attachments/assets/a4bca034-64ea-41d7-acfe-b7e14be3a3c2)
 
 
 A passionate software developer
