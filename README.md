@@ -1,5 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/05/14/95/12/360_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg" align="center" height="" width="" />  
-
+![Banner](![github_banner](https://github.com/user-attachments/assets/001c3b4a-f506-4f50-89d3-3219df14c264))
 <h1 align="center">Hi 👋, I'm David Garcia Badillo</h1>
 
 
